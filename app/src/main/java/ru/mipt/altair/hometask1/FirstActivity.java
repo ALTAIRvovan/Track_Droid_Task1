@@ -1,8 +1,5 @@
 package ru.mipt.altair.hometask1;
 
-import android.content.Context;
-import android.content.Intent;
-import android.os.CountDownTimer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
